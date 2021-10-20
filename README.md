@@ -3,7 +3,7 @@
 ***
 | Day      | Stack     | Links     |
 |   ---    |    ---    |    ---    |
-|  Day 01  | HTML/CSS  |  [Repository Link](https://github.com/cybergeni/) (https://cybergeni.github.io)       |
+|  Day 01  | HTML/CSS  | - [Repository Link](https://github.com/cybergeni/) - [Live Link](https://cybergeni.github.io)       |
 |  Day 02  | HTML/CSS  |            |
 |  Day 03  | HTML/CSS  |            |
 |  Day 04  | HTML/CSS  |            |
