@@ -27,7 +27,7 @@
 |  Day 25  |  | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/)</li><li>[Live Link](https://cybergeni.github.io)</li></ul>  |
 |  Day 26  |  | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/)</li><li>[Live Link](https://cybergeni.github.io)</li></ul>  |
 |  Day 27  |  | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/)</li><li>[Live Link](https://cybergeni.github.io)</li></ul>  |
-|  Day 28  |  | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/)</li><li>[Live Link](https://cybergeni.github.io)</li></ul>  |
+|  Day 28  | Social Proof Section | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/social-proof-section)</li><li>[Live Link](https://cybergeni.github.io/social-proof-section)</li></ul>  |
 |  Day 29  |  | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/)</li><li>[Live Link](https://cybergeni.github.io)</li></ul>  |
 |  Day 30  |  | Component | HTML/CSS  | <ul><li>[Repository Link](https://github.com/cybergeni/)</li><li>[Live Link](https://cybergeni.github.io)</li></ul>  |
 ***
